@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fatihergin.mvvmfeature.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fatihergin.mvvmfeature.MyBundle
 
 class MyApplicationService {
 
